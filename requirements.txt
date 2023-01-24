@@ -4,3 +4,13 @@ opencv_contrib_python
 requests
 streamlit
 streamlit_webrtc
+fastapi
+matplotlib
+mediapipe
+numpy
+Pillow
+pydantic
+starlette
+uvicorn
+protobuf==3.20.*
+python-multipart
