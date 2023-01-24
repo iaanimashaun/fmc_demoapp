@@ -11,6 +11,7 @@ import numpy as np
 
 flip = st.checkbox("Flip")
 url = 'http://13.40.194.22/fmc_api'
+url = 'http://18.132.59.76/fmc_api'
 
 
 def stringToRGB(base64_string):
