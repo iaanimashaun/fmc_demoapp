@@ -10,7 +10,7 @@ import numpy as np
 # import matplotlib.pyplot as plt
 
 flip = st.checkbox("Flip")
-url = 'http://localhost:8080/fmc_api'
+url = 'http://13.40.194.22/fmc_api'
 
 
 def stringToRGB(base64_string):
