@@ -1,0 +1,6 @@
+matplotlib
+numpy
+opencv_contrib_python
+requests
+streamlit
+streamlit_webrtc
